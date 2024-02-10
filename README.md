@@ -35,7 +35,46 @@ Upon market release, we anticipate a 40% reduction in particulate matter emissio
 Our roadmap includes collaborations with automotive manufacturers and city authorities for widespread deployment. Leveraging Google technologies, our architecture is designed for scalability to address the global challenge of vehicular emissions.
 
 ---
+Certainly! Here's a concise set of instructions:
 
+---
+
+# Running the UN-Go Green For Application
+
+Follow these steps:
+
+1. Clone the repository:
+   ```
+   git clone https://github.com/Project-Zero/UN-Go.git
+   ```
+
+2. Open the project directory:
+   ```
+   cd UN-Go
+   ```
+
+3. Navigate to the `lib` directory:
+   ```
+   cd lib
+   ```
+
+4. Open `main.dart` in Visual Studio Code or your preferred IDE.
+
+5. Run `main.dart` without debugging:
+   - In Visual Studio Code:
+     - Press `F5` to start debugging.
+     - Select "Run Without Debugging".
+   - In other IDEs or command-line:
+     - Run:
+       ```
+       dart main.dart
+       ```
+
+6. Follow the prompts or instructions provided by the application.
+
+---
+
+Ensure you have Dart SDK and Flutter (if needed) installed before running the project. Adjust the commands based on your system configuration and preferences.
 ## Visuals and System Preview
 
 ### Key Features:
