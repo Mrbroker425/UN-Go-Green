@@ -35,7 +35,7 @@ Upon market release, we anticipate a 40% reduction in particulate matter emissio
 Our roadmap includes collaborations with automotive manufacturers and city authorities for widespread deployment. Leveraging Google technologies, our architecture is designed for scalability to address the global challenge of vehicular emissions.
 
 ---
-Certainly! Here's a concise set of instructions:
+ Here's a concise set of instructions:
 
 ---
 
